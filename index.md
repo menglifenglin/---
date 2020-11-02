@@ -1,7 +1,11 @@
-## Welcome to GitHub Pages
+## Linux 系统总结
 主要介绍linux系统中常见的命令、交互软件的介绍、linux系统的管理与分配状态！
 
-### Markdown
+### Linux系统分区
+ 1. 将硬盘分区完后，格式化再给每个分区起设备名，再给分区分配分盘符。
+ 2. “/” 为根目录，根目录为linux中最高级的目录，所有的数据都保存在根目录中，dev目录中存放的都是硬件文件。
+ 3. 给硬件取文件名。
+ 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
