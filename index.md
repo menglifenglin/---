@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/menglifenglin/---/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+主要介绍linux系统中常见的命令、交互软件的介绍、linux系统的管理与分配状态！
 
 ### Markdown
 
